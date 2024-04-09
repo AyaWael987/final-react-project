@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+.login{
+    margin: auto;
+    background-color: #fff;
+    height: 72vh;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    width: 75%;
+    box-shadow:10px 10px 50px 10px  rgb(159, 182, 189) ;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 50px;
+
+}
+.img1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../../assets/yyy.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}

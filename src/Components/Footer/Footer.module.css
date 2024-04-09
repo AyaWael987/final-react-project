@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    justify-content: space-;
+    margin-top: 50px;
+    /* background-color:rgb(250, 247, 247); */
+    background-color: rgb(164, 199, 210);
+    padding:30px 40px ;
+}
+.img1{
+    width: 60px;
+}
